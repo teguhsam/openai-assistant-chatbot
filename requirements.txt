@@ -2,3 +2,4 @@ openai
 anthropic
 python-dotenv
 google.generativeai
+gradio
