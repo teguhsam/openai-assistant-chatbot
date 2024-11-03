@@ -59,6 +59,7 @@ Once the chatbot is running, it will respond to customer queries related to airl
 The chatbot will return the price based on the cities defined in the ticket_prices dictionary. If the city is not in the dictionary, it will respond with "Unknown."
 
 ![Example](flightai_chatbot.png)
+![Example](flightai_chatbot_2.png)
 
 ## Code Overview
 
